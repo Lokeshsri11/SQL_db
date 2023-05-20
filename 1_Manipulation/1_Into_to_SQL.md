@@ -3,6 +3,8 @@ SELECT * FROM celebs;
 ```
 
 ```graphql 
+--output--
+
 id	    name	      age
 1.	Justin Bieber	  22
 2.	Beyonce Knowles	  33
@@ -12,7 +14,7 @@ id	    name	      age
 Database Schema
     celebs
 name	type
-id	    INTEGER
-name	TEXT
-age	    INTEGER
+id	  -  INTEGER
+name  -  TEXT
+age	  -  INTEGER
 ```
