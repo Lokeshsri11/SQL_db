@@ -1,5 +1,6 @@
 ```SQL
 SELECT * FROM celebs;
+```
 
 //output 
 id	    name	      age
