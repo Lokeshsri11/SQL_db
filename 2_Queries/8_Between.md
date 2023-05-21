@@ -1,0 +1,6 @@
+## BETWEEN in SQL
+```SQL
+SELECT * FROM movies WHERE name BETWEEN 'D' AND 'G';
+
+SELECT * FROM movies WHERE year BETWEEN 1970 AND 1979;
+```
