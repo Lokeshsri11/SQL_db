@@ -1,4 +1,4 @@
-## BETWEEN in SQL
+## BETWEEN concept in SQL
 ```SQL
 SELECT * FROM movies WHERE name BETWEEN 'D' AND 'G';
 
